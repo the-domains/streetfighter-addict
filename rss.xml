@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[streetfighter addict]]></title>
+        <description><![CDATA[streetfighter addict]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 00:06:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Street Triple 765 at large]]></title>
+            <description><![CDATA[<article><h1>Street Triple 765 at large</h1><p>After months of hiding in a tree, one of MCN's spy photographers has finally managed to grab a series of decent images of the all-new Triumph Street Triple 765 as it was undergoes final road testing.</p><img src="http://images.mcn.bauercdn.com/PageFiles/574595/1.jpg"></article>]]></description>
+            <link>http://www.motorcyclenews.com/news/new-bikes/2016/may/street-triple-765-at-large/</link>
+            <guid isPermaLink="false">63978d70-5e01-467f-a212-2d2c7f6d5868</guid>
+            <pubDate>Sun, 10 Jul 2016 00:06:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
