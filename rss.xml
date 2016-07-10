@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[streetfighter addict]]></title>
         <description><![CDATA[streetfighter addict]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/streetfighter-addict/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 00:06:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 00:07:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/streetfighter-addict/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KTM Super Duke R sharpens up for 2017]]></title>
+            <description><![CDATA[<article><h1>KTM Super Duke R sharpens up for 2017</h1><p>The bike is believed to boast enhanced electronic rider aids including cornering ABS, the latest Inertial Measurement Unit (IMU) systems for monitoring wheelies, traction control and ABS. It should also have the WP electronic semi-active suspension from the GT model. There are some significant styling updates too.</p><img src="http://images.mcn.bauercdn.com/PageFiles/572839/KTM1.jpg"></article>]]></description>
+            <link>http://www.motorcyclenews.com/news/new-bikes/2016/may/ktm-super-duke-r-sharpens-up-for-2017/</link>
+            <guid isPermaLink="false">e57d2852-0547-454a-8a08-13877e341096</guid>
+            <pubDate>Sun, 10 Jul 2016 00:07:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Street Triple 765 at large]]></title>
-            <description><![CDATA[<article><h1>Street Triple 765 at large</h1><p>After months of hiding in a tree, one of MCN's spy photographers has finally managed to grab a series of decent images of the all-new Triumph Street Triple 765 as it was undergoes final road testing.</p><img src="http://images.mcn.bauercdn.com/PageFiles/574595/1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Street Triple 765 at large</h1><p>After months of hiding in a tree, one of MCN's spy photographers has finally managed to grab a series of decent images of the all-new Triumph Street Triple 765 as it was undergoes final road testing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fee18443a37801d91a3465feea1ecf1a/noop.jpg?input=http%3A%2F%2Fimages.mcn.bauercdn.com%2FPageFiles%2F574595%2F1.jpg"></article>]]></description>
             <link>http://www.motorcyclenews.com/news/new-bikes/2016/may/street-triple-765-at-large/</link>
             <guid isPermaLink="false">63978d70-5e01-467f-a212-2d2c7f6d5868</guid>
             <pubDate>Sun, 10 Jul 2016 00:06:09 GMT</pubDate>
